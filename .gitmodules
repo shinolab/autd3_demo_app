@@ -1,0 +1,6 @@
+[submodule "server/3rdparty/spdlog"]
+	path = server/3rdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "server/3rdparty/autd3"]
+	path = server/3rdparty/autd3
+	url = https://github.com/shinolab/autd3.git
